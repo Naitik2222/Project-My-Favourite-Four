@@ -1,0 +1,70 @@
+
+img{
+  border-radius:70%;
+  width:150px;
+}
+p{
+  color:red;
+  font-size:20px;
+}
+h1{
+  color:black;
+}
+#line{
+  width: 10px;
+  color:rgb(0, 255, 119);
+}
+#hbbybio{
+  background:linear-gradient(rgb(0, 162, 255) 50% , rgb(114, 226, 9) 50%);
+  text-align: center;
+  font-family:'Mate SC';
+
+}
+#hbbypg{
+  background:linear-gradient(orange 40%,red 60%);
+  text-align: center;
+  font-family:'Times New Roman';
+}
+.menu{
+  list-style: none;
+  font-family: 'cursive';
+  float:right;
+  top:10px;
+  right:30px;
+  cursor:pointer;
+  color:Black;
+  padding-left: 50px;
+  padding-right: 25px;
+  display: inline;
+  z-index: 9;
+
+}
+.link:hover{
+  font-size: 25px;
+  text-decoration: underline;
+  background: darkblue;
+}
+html{
+  scroll-behavior: smooth;
+}
+#Fvhbby{
+  background:darkcyan;
+  text-align: center;
+}
+img{
+  transition:transform.2s;
+  width:500px;
+  height: 500px;
+}
+img:hover{
+  transform:scale(0.9);
+}
+#inspiiration{
+  background-color: blanchedalmond;
+  text-shadow: crimson;
+  text-align:center;
+}
+#Contact{
+  text-align:center;
+  background-color: rgb(6, 206, 241);
+}
